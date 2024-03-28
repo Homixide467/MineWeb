@@ -15,6 +15,7 @@
 
 body {
     background: url("background_index.jpg");
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
